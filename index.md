@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Chess Game Final Project | CSCI 325](project1)
 
-![Project 1 Thumbnail Name](images/project1_thumbnzil.jpg)
+![Project 1 Thumbnail Name](images/project1_thumbnail.jpg)
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
