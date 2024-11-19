@@ -25,7 +25,7 @@ java JavaCalculator
 
 Program displays how much disk space you have after loading it (see Fig 1).
 
-![screenshot](images/project4_first.png)  
+![screenshot](images/project4_actual.png)  
 Fig 1. Disk space displayed.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
