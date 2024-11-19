@@ -31,20 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [App Notifications Ethics Paper](/pdf/App_Notifications_Ethics_Paper.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class:** CSCI 235
+-   **Grade:** B
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Net Neutrality Ethics Paper](/pdf/Net_Neutrality_Ethics_Paper.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI 332
+-   **Grade:** A
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [AI Ethics Paper](/pdf/AI_Ethics_Paper.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI 301
+-   **Grade:** C
 
 ---
 
