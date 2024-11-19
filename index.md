@@ -17,14 +17,14 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/project2_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project3)
+### [Chat Room | CSCI 332](project3)
 
 ![Project 3 Thumbnail Name](images/project3_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project4)
+### [Disk Drive Calculator | CSCI 301](project4)
 
-![Project 4 Thumbnail Name](images/project4_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/project4_thumbnail.png)
 
 ---
 
