@@ -53,14 +53,14 @@ Presentations
 
 ### <a href="https://www.youtube.com/watch?v=tW3CPtU0QLA">Chat Room Presentation
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 332
+- **Grade:** A
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### <a href="https://youtu.be/d4-Vy4FOPJs">Defensive Coding Instructional Video
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 352
+- **Grade:** A
 
 ---
 
