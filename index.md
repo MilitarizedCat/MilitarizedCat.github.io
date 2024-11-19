@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### <a href="https://www.youtube.com/watch?v=tW3CPtU0QLA">Chat Room Presentation
 
 - **Class:** 
 - **Grade:**
