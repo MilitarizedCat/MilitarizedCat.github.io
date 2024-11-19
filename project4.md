@@ -23,8 +23,6 @@ java JavaCalculator
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
 Program displays how much disk space you have after loading it (see Fig 1).
 
 ![screenshot](images/project4_first.png)  
