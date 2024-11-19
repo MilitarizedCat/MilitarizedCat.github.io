@@ -1,47 +1,44 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Hangman
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class:** CSCI 301
+-   **Grade:** C
+-   **Language(s):** C++
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:lareed@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Classic Hangman game that I recreated. The code works very well with multiple difficulties and phrases.
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
-
 ```bash
 cd ./project
-python setup.py
+g++ Hangman.cpp
+Hangman.exe
 ```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+Upon loading into the program you are asked to select a difficulty (see Fig 1). Once you select a difficulty you are brought to a blank hangman game and it asks for a letter (see Fig 2). If you input a correct letter it fills out the spots where that letter goes in the phrase (see Fig 3). If you input a wrong letter the man starts to form on the gallows and it lists the letter you got wrong (see Fig 4). If you input something other than a letter you get a message telling you it is invalid (see Fig 5).
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+![screenshot](images/project2_first.png)  
+Fig 1. Program asks for difficulty upon launch.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/project2_second.png)  
+Fig 2. Program forms an empty gallows and phrase equivelant to your difficulty.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/project2_third.png)  
+Fig 3. Correct letter was typed.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/project2_fourth.png)  
+Fig 4. Incorrect letter was typed.
 
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+![screenshot](images/project2_fifth.png)  
+Fig 5. Invalid character was typed.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
