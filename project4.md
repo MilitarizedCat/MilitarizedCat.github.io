@@ -3,7 +3,7 @@
 Senior Project
 ===============
 
-- Lab Repository: github.com/MilitarizedCat/Senior-Project-All-Documents
+- Lab Repository: <a href="github.com/MilitarizedCat/Senior-Project-All-Documents">
 
 ## Project description
 
