@@ -22,9 +22,9 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/project3_thumbnail.png)
 
 ---
-### [Disk Drive Calculator | CSCI 301](project4)
+### [Senior Project](project4)
 
-![Project 4 Thumbnail Name](images/project4_thumbnail.png)
+![Project 4 Thumbnail Name](images/senior_project_thumbnail.png)
 
 ---
 
