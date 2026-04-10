@@ -7,9 +7,10 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:lareed@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Chess Game Final Project | CSCI 325](project1)
+### [Senior Project](project4)
 
-![Project 1 Thumbnail Name](images/project1_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/senior_project_thumbnail.png)
+
 
 ---
 ### [Hangman | CSCI 301](project2)
@@ -22,9 +23,9 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/project3_thumbnail.png)
 
 ---
-### [Senior Project](project4)
+### [Chess Game Final Project | CSCI 325](project1)
 
-![Project 4 Thumbnail Name](images/senior_project_thumbnail.png)
+![Project 1 Thumbnail Name](images/project1_thumbnail.jpg)
 
 ---
 
