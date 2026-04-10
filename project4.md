@@ -11,6 +11,11 @@ This is the project I did as the capstone project for my Senior graduation. It i
 
 ## How to Use
 
+Download these files from the repository and follow the lab:
+
+- Lab Instructions.pdf
+- Starting Network.pkt
+
 ## Project documentation
 
 - <a href="https://github.com/MilitarizedCat/Senior-Project-All-Documents/blob/main/documentation/Senior_Project_Testing_Plan.pdf"> Test Plan
