@@ -9,6 +9,8 @@ Senior Project
 
 This is the project I did as the capstone project for my Senior graduation. It is a lab that guides the user on how to use Cisco Packet Tracer to create and secure a small network. 
 
+![Project 4 Thumbnail Name](images/network_plan.png)
+
 ## How to Use
 
 Download these files from the repository and follow the lab:
