@@ -22,5 +22,6 @@ Download these files from the repository and follow the lab:
 
 - <a href="https://github.com/MilitarizedCat/Senior-Project-All-Documents/blob/main/documentation/Senior_Project_Testing_Plan.pdf"> Test Plan
 - <a href="https://github.com/MilitarizedCat/Senior-Project-All-Documents/blob/main/documentation/Senior%20Project%20Creation%20Documentation.pdf"> Creation Documentation  
+- <a href="https://github.com/MilitarizedCat/Senior-Project-All-Documents/blob/main/documentation/Senior%20Project%20Proposal.pdf"> Senior Proposal
 
 [Back to Portfolio](./)
